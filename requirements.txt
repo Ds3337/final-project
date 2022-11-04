@@ -1,3 +1,7 @@
-matplotlib
-pandas
-streamlit
+altair==4.2.0
+matplotlib==3.6.1
+numpy==1.23.4
+pandas==1.5.1
+pyecharts==1.9.1
+streamlit==1.13.0
+streamlit_echarts==0.4.0
