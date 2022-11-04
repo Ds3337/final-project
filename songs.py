@@ -8,7 +8,6 @@ from streamlit_echarts import st_echarts
 from streamlit_echarts import st_pyecharts
 from pyecharts.charts import Bar
 from pyecharts import options as opts
-from turtle import color
 
 df = pd.read_csv('songs.csv')       
 df.isnull().sum()       # Check for missing data
