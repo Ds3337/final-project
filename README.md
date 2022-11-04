@@ -16,5 +16,5 @@ We first checked for the missing data in this dataset and found none. Then we ch
 # Presentation
 [Presentation slides](https://github.com/Ds3337/final-project/blob/main/team-12.pptx)
 # Data App
-[Streamlit Demo](http://172.20.10.3:8501)
+[Streamlit Demo](https://ds3337-final-project-songs-jdkio8.streamlit.app/)
 
