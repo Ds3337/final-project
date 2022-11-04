@@ -1,11 +1,3 @@
 matplotlib
 pandas
 streamlit
-random
-altair
-numpy
-st_echarts
-st_pyecharts
-Bar
-options
-color
